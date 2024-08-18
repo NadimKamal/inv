@@ -1,0 +1,95 @@
+@import url('bootstrap.min.css');
+@import url('all.min.css');
+
+.wrapper .container-fluid .row .col-sm-2{
+    height: 89vh ;
+}
+
+/* Custom card style */
+.card {
+    color: white;
+    /* Text color */
+}
+
+
+.card-1 {
+    background-color: #437dbb;
+}
+
+.card-2 {
+    background-color: #399e50;
+}
+
+.card-3 {
+    background-color: #ffc107;
+}
+
+.card-4 {
+    background-color: #b62267;
+}
+.card-5 {
+    background-color: #673f3a;
+}
+
+
+.custom-card-text {
+    font-size: 48px;
+    margin: 0px
+}
+
+.text-none{
+    text-decoration: none;
+}
+
+.text-right{
+    text-align: right;
+}
+
+/* this is inside the navbar */
+.dropdown-menu{
+    background-color: #292122;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* this is for report-index */
+/* .report-section a{
+    text-decoration: none;
+} */
+
+
+
+
+/* in the master-design */
+/* .wrapper .container-fluid .row .col-sm-2{
+
+    font-size: 1.1rem;
+    font-weight: normal;
+} */
+
+/* from the master design to sidenav */
